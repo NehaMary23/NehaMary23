@@ -3,20 +3,14 @@
 💻 Full Stack Developer
 🎓 Computer Science Engineering Student
 
----
-
 ## 🚀 About Me
 
 I’m a passionate full-stack developer focused on building modern, responsive web applications. I enjoy working across both frontend and backend, and continuously improving my development skills.
-
----
 
 ## 🔧 Currently Working On
 
 * WordPress projects
 * Improving backend and API development skills
-
----
 
 ## 🛠️ Tech Stack
 
@@ -39,8 +33,6 @@ I’m a passionate full-stack developer focused on building modern, responsive w
 * MySQL
 * MongoDB
 * SQLite
-
----
 
 ## 🌐 Connect With Me
 
