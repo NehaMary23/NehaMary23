@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Neha 👋
 
-<!--
-**NehaMary23/NehaMary23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Wordpress projects
+* Improving backend and API skills
+
+## Tools I Use
+
+Next.js, React, Typescript, Tailwind CSS
+Node.js, Express.js, Laravel, Django
+MySQL, MongoDB, SQLite
+
+## Reach Me
+
+LinkedIn: https://www.linkedin.com/in/neha-mary-pramod/
+Portfolio: https://neha-portfolio-orcin.vercel.app/
