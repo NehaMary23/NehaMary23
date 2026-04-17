@@ -1,20 +1,52 @@
-## Hi, I'm Neha 
+# Hi, I'm Neha 👋
 
-💻 Full Stack Developer<br>
+💻 Full Stack Developer
 🎓 Computer Science Engineering Student
 
-### Currently Working On
+---
 
-* Wordpress projects
-* Improving backend and API skills
+## 🚀 About Me
 
-### Tools I Use
+I’m a passionate full-stack developer focused on building modern, responsive web applications. I enjoy working across both frontend and backend, and continuously improving my development skills.
 
-Next.js, React, Typescript, Tailwind CSS<br>
-Node.js, Express.js, Laravel, Django<br>
-MySQL, MongoDB, SQLite<br>
+---
 
-### Reach Me
+## 🔧 Currently Working On
 
-LinkedIn: https://www.linkedin.com/in/neha-mary-pramod/<br>
-Portfolio: https://neha-portfolio-orcin.vercel.app/
+* WordPress projects
+* Improving backend and API development skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+* Django
+* Laravel
+
+**Databases**
+
+* MySQL
+* MongoDB
+* SQLite
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/neha-mary-pramod/
+* 💼 Portfolio: https://neha-portfolio-orcin.vercel.app/
+
+---
+
+💡 Always learning, building, and improving.
