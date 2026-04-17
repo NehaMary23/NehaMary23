@@ -1,4 +1,4 @@
-# Hi, I'm Neha 👋
+# Hi, I'm Neha 
 
 💻 Full Stack Developer
 🎓 Computer Science Engineering Student
