@@ -46,8 +46,8 @@ I’m a passionate full-stack developer focused on building modern, responsive w
 ---
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=NehaMary23&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaMary23&layout=donut&theme=tokyonight&hide_border=true" height="155"/>
+   <img src="https://streak-stats.demolab.com?user=NehaMary23&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaMary23&layout=donut&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <div style="margin-top:0; line-height:0;">
