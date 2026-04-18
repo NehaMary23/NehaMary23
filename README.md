@@ -45,19 +45,19 @@ I’m a passionate full-stack developer focused on building modern, responsive w
 
 ---
 
-<div align="center">
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=NehaMary23&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaMary23&layout=donut&theme=tokyonight&hide_border=true" height="155"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaMary23&layout=donut&theme=tokyonight&hide_border=true&card_width=300" height="180" alt="Top Languages"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NehaMary23&theme=tokyonight&hide_border=true" height="180" alt="Contribution Streak"/>
-
+<div style="margin-top:0; line-height:0;">
+  <img 
+    src="https://raw.githubusercontent.com/NehaMary23/NehaMary23/output/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+  />
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NehaMary23&theme=tokyo-night&hide_border=true&radius=8)
-
-
-</div>
-
+---
 
 <div align="center">
 
@@ -69,14 +69,13 @@ I’m a passionate full-stack developer focused on building modern, responsive w
 <a href="https://neha-portfolio-orcin.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>&nbsp;&nbsp;
-<a href="mailto:nehapramo05@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nehapramo05@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
----
-
+<br>
 <p align="center">
-  <em>Let's build something amazing together! 🚀</em>
+  Let's build something amazing together!
 </p>
