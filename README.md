@@ -22,7 +22,6 @@ I’m a passionate full-stack developer focused on building modern, responsive w
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,javascript,nodejs,express,django,laravel,mysql,mongodb,sqlite,tailwind,git&perline=15" alt="Tech Stack"/>
 </p>
-<br>
 
 ### Currently Focusing on
 
@@ -42,6 +41,7 @@ I’m a passionate full-stack developer focused on building modern, responsive w
     <td>End-to-end web application development</td>
   </tr>
 </table>
+<br>
 
 ---
 
