@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm **Neha**
+# 👋 Hi, I'm **Neha**
 
 <p>
   <strong>Full Stack Developer</strong> | <strong>CSE Student</strong> 
