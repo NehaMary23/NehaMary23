@@ -66,7 +66,7 @@ I’m a passionate full-stack developer focused on building modern, responsive w
 <a href="https://www.linkedin.com/in/neha-mary-pramod/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;&nbsp;
-<a href="https://neha-portfolio-orcin.vercel.app/" target="_blank">
+<a href="https://neha-portfolio.nehamaryp.workers.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nehapramo05@gmail.com" target="_blank">
